@@ -1,0 +1,5 @@
+build
+*.swp
+bin
+lib
+log.txt
